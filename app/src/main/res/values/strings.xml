@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GithubTrendingAndroid</string>
+    <string name="title_activity_trending_repository_list">TrendingRepositoryListActivity
+    </string>
+    <string name="title_activity_trending_repository_detail">TrendingRepositoryDetailActivity
+    </string>
 </resources>
